@@ -126,12 +126,6 @@
 
 ---
 
-## **Module 9: Exam Preparation & Mock Tests**
-9.1 Exam Tips & Time Management  
-9.2 Review of Key AWS Database Concepts  
-9.3 Sample Exam Questions & Answers  
-9.4 Hands-on Labs Recap  
-9.5 Full-Length Mock Tests  
 
 ---
 
